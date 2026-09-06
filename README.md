@@ -25,9 +25,9 @@ I like building things across the stack - from embedded hardware and IoT telemet
   Quantitative risk simulation suite combining Geometric Brownian Motion Monte Carlo demand modeling, Value at Risk (VaR/CVaR) tail loss metrics, and PuLP mixed-integer linear programming for cost optimization.  
   *Stack: Python, PuLP, SciPy, NumPy, Pandas*
 
-- **[edge-tensor-quantizer](https://github.com/vsingh2005/edge-tensor-quantizer)**  
-  Tensor quantization micro-kernel implementing symmetric and asymmetric INT8 quantization, per-channel scaling, and cache-tiled matrix multiplication (GEMM) for L1/L2 cache locality.  
-  *Stack: Python, C++, NumPy, SciPy, Pytest*
+- **[RPN_Calculator](https://github.com/vsingh2005/RPN_Calculator)**  
+  Stack-based Reverse Polish Notation (RPN) mathematical expression parser and infix-to-postfix translator utilizing custom FIFO/LIFO data structures and operator precedence parsing.  
+  *Stack: Python, Data Structures (Stack / Queue), Shunting-Yard Algorithm*
 
 ---
 
