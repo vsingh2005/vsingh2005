@@ -1,6 +1,6 @@
 # Hey, I'm Vansh! :)
 
-I recently finished my B.S. in Computer Engineering from UMass Amherst (Riccio College of Engineering) and I'm currently working on my M.S. in Business Analytics at UMass Isenberg. I'm based in Chicago, IL.
+I recently finished my B.S. in Computer Engineering from UMass Amherst (Riccio College of Engineering) and I'm currently working on my M.S. in Business Analytics at UMass Isenberg.
 
 I like building things across the stack - from embedded hardware and IoT telemetry to cloud infrastructure automation, numerical data pipelines, and quantitative analytics.
 
