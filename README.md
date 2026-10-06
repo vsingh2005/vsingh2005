@@ -1,38 +1,41 @@
-# Hey, I'm Vansh! :)
+# Vansh Singh
 
-I recently finished my B.S. in Computer Engineering from UMass Amherst (Riccio College of Engineering) and I'm currently working on my M.S. in Business Analytics at UMass Isenberg.
+Hi, I'm Vansh. I completed my B.S. in Computer Engineering from UMass Amherst (College of Engineering) and I am pursuing my M.S. in Business Analytics at UMass Amherst (Isenberg School of Management).
 
-I like building things across the stack - from embedded hardware and IoT telemetry to cloud infrastructure automation, numerical data pipelines, and quantitative analytics.
-
----
-
-### What I Work On
-
-- **Cloud & Infrastructure**: Working with AWS, GCP, CI/CD automation, and infrastructure tooling. Previously worked on cloud infrastructure automation and standardizing deployment pipelines as an IT Cloud Engineering Intern at UMass.
-- **Analytics & Data Pipelines**: High-volume data processing, time-series analysis, and optimization using Python, SQL, DuckDB, Pandas, and SciPy.
-- **Hardware & Embedded Systems**: Circuit prototyping, IoT sensor integration, mechatronics (ASME Mechatronics / IAM3D rover and drone design), and electrical subteam work for the U.S. Department of Energy Collegiate Wind Competition.
-- **Applied ML & Quantum Computing**: PyTorch, hybrid classical-quantum models with PennyLane and Qiskit, and numerical simulation.
+I build high-performance systems across the stack: embedded IoT telemetry, hardware acceleration kernels, numerical data processing pipelines, and quantitative optimization.
 
 ---
 
 ### Featured Repositories
 
-- **[fleet-telemetry-pipeline](https://github.com/vsingh2005/fleet-telemetry-pipeline)**  
-  High-throughput IoT sensor ingestion pipeline with circular ring buffers, streaming sliding-window anomaly detection (Welford's algorithm), and columnar Parquet archival with DuckDB SQL queries.  
+- **[Edge-Tensor-Quantizer](https://github.com/vsingh2005/Edge-Tensor-Quantizer)**  
+  Low-level INT8 quantization kernels (symmetric/asymmetric scaling, per-channel weights) and cache-tiled General Matrix Multiplication (GEMM) micro-benchmarks with signal-to-noise ratio (SNR) and error metrics.  
+  *Stack: Python, C++, NumPy, SciPy*
+
+- **[Fleet-Telemetry-Pipeline](https://github.com/vsingh2005/Fleet-Telemetry-Pipeline)**  
+  High-throughput IoT sensor ingestion pipeline with circular ring buffers, streaming sliding-window anomaly detection (Welford's algorithm), and columnar Parquet archival with DuckDB SQL analytics.  
   *Stack: Python, DuckDB, PyArrow, Pydantic, Pytest*
 
-- **[supply-chain-risk-engine](https://github.com/vsingh2005/supply-chain-risk-engine)**  
-  Quantitative risk simulation suite combining Geometric Brownian Motion Monte Carlo demand modeling, Value at Risk (VaR/CVaR) tail loss metrics, and PuLP mixed-integer linear programming for cost optimization.  
+- **[Supply-Chain-Risk-Engine](https://github.com/vsingh2005/Supply-Chain-Risk-Engine)**  
+  Quantitative risk simulation suite combining Geometric Brownian Motion Monte Carlo demand modeling, Value at Risk (VaR/CVaR) tail loss metrics, and PuLP mixed-integer linear programming for multi-echelon cost optimization.  
   *Stack: Python, PuLP, SciPy, NumPy, Pandas*
 
-- **[RPN_Calculator](https://github.com/vsingh2005/RPN_Calculator)**  
-  Stack-based Reverse Polish Notation (RPN) mathematical expression parser and infix-to-postfix translator utilizing custom FIFO/LIFO data structures and operator precedence parsing.  
-  *Stack: Python, Data Structures (Stack / Queue), Shunting-Yard Algorithm*
+- **[Quantum Hybrid Neural Network](https://devpost.com/software/quantum-hybrid-neural-network)**  
+  AWS Braket and PennyLane hybrid classical-quantum neural network for material hardness classification, integrating PyTorch classical layers with parameterized quantum variational circuits.  
+  *Stack: PyTorch, PennyLane, Qiskit, AWS Braket*
 
 ---
 
-### Technical Background
+### Technical Focus Areas
 
-- **Languages**: Python, JavaScript, Java, SQL, C/C++, HTML/CSS, Lua, Qiskit
-- **Tools & Platforms**: AWS, Google Cloud Platform, Git, GitHub Actions, Docker, VS Code, LTSpice, SolidWorks, JIRA
-- **Focus Areas**: Distributed Data Systems, Cloud Automation, Mechatronics & IoT, Applied Operations Research
+- **Cloud & Automation**: Infrastructure tooling, CI/CD pipelines, Docker, GitHub Actions, AWS, GCP, Jira.
+- **Systems & Hardware**: Cache locality, memory hierarchy, IoT sensor protocols (CAN / OBD-II), SolidWorks, LTSpice, Arduino FSM mechatronics (ASME IAM3D global finalist & DOE Collegiate Wind Competition).
+- **Analytics & Operations Research**: Time-series streaming analysis, stochastic simulation, linear programming (MILP), DuckDB, SQL, Pandas.
+
+---
+
+### Languages & Tools
+
+- **Languages**: Python, SQL, C/C++, Java, JavaScript, LaTeX, HTML/CSS
+- **Frameworks & Libraries**: PyTorch, PennyLane, DuckDB, PyArrow, PuLP, NumPy, SciPy, Pandas, Pytest
+- **Platforms**: AWS, GCP, GitHub Actions, Docker, Linux, Atlassian Suite\n
